@@ -8,7 +8,7 @@
 - [Abstract](#Abstract)
 - [Docs](#Docs)
 - [Notebooks](#Notebooks)
-- [Conclusions and Future Directions](#Conclusions and Future Directions)
+- [Conclusions and Future Directions](#Conclusions-and-Future-Directions)
 
 ---
 
