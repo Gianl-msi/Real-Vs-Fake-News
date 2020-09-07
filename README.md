@@ -5,10 +5,10 @@
 ---
 
 ### Table of Contents
-[Abstract](#Abstract)
-[Docs](#Docs)
-[Notebooks](#Notebooks)
-[Conclusion and Future Directions](#Conclusion and Future Directions)
+- [Abstract](#Abstract)
+- [Docs](#Docs)
+- [Notebooks](#Notebooks)
+- [Conclusion and Future Directions](#Conclusion and Future Directions)
 
 ---
 
