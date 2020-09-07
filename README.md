@@ -25,7 +25,7 @@ Real and fake news datasets can be found here(https://www.kaggle.com/clmentbisai
 ## [Docs](https://github.com/Gianl-msi/Real-Vs-Fake-News/tree/master/Docs)
 - [Exploratory Data Analysis](https://github.com/Gianl-msi/Real-Vs-Fake-News/blob/master/Docs/Fake%20News%20-%20EDA%208-30.pdf)
 - [Final Report](https://github.com/Gianl-msi/Real-Vs-Fake-News/blob/master/Docs/Fake%20news%20-%20Final%20report%209-6.pdf)
-- [Presentation]()
+- [Presentation](https://github.com/Gianl-msi/Real-Vs-Fake-News/blob/master/Docs/Fake%20news%20presentation.pdf)
 
 
 ## [Notebooks](https://github.com/Gianl-msi/Real-Vs-Fake-News/tree/master/Notebooks)
