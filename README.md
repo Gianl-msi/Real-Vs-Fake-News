@@ -8,7 +8,7 @@
 - [Abstract](#Abstract)
 - [Docs](#Docs)
 - [Notebooks](#Notebooks)
-- [Conclusion and Future Directions](#Conclusion and Future Directions)
+- [Conclusions and Future Directions](#Conclusions and Future Directions)
 
 ---
 
@@ -27,7 +27,7 @@ Herein, I tested several machine learning models that leverage NLP techniques, l
 - [Exploratory Data Analysis](https://github.com/Gianl-msi/Real-Vs-Fake-News/blob/master/Notebooks/Real%20and%20Fake%20News%20-%20EDA%20-%208-30.ipynb)
 - [Modeling](https://github.com/Gianl-msi/Real-Vs-Fake-News/blob/master/Notebooks/Real%20and%20Fake%20News%20-%20Preprocessing%20%26%20Modeling%208-30.ipynb)
 
-## Conclusion and Future Directions
+## Conclusions and Future Directions
 The unchecked spreading of fake information has become a real problem for social media platforms and online information outlets, and it has prompted data science and machine learning communities to develop precise tools for identification and successive removal of untrue information. Herein, I created and tested several models for the accurate discrimination of real news from fake news. These modeIs leveraged NLP techniques as well as linguistic complexity and indexes of title and text of the news. 
 One important limitation of this study is that real and fake news were collected from two different sources, suggesting that difference in these sources may have made prediction easier than it should be. I dove into the data to attempt to find any clear markers that differentiated these two sources, but even after these steps were taken my overall AUC score remained over .99 which seems unlikely to be true in reality. For future studies, ideally, we could either collect real and fake news articles (as labelled by a third party) from a similar distribution of sources, or we could pull articles from a few sources and use crowdsourcing to label them as real or fake. 
 There are additional steps that could be taken to improve the predictive power of the model which I couldn’t take given the limitations of computational complexity and runtime. First, I could lower min_df to include rare words. Another feature that could be added is the amount of punctuation in the text of the document. Fake news’ text tends to have an excess of exclamation marks, asterisks and other punctuation marks. The text could also be analyzed for spelling and grammar errors. Finally, a more sophisticated vectorizer such as word2vec could be implemented to maintain and analyze words’ semantic in text and title of the news. 
