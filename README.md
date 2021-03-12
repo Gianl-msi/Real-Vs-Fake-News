@@ -1,8 +1,6 @@
 # Real-Vs-Fake-News
+<img src="https://github.com/Gianl-msi/Real-Vs-Fake-News/blob/master/images/word%20cloud.JPG" width="400" height="250"/>
 
-#### Capstone Project 2 - Springboard
-
----
 
 ### Table of Contents
 - [Abstract](#Abstract)
