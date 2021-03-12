@@ -1,5 +1,5 @@
 # Real-Vs-Fake-News
-<img src="https://github.com/Gianl-msi/Real-Vs-Fake-News/blob/master/images/word%20cloud.JPG" width="400" height="250"/>
+<img src="https://github.com/Gianl-msi/Real-Vs-Fake-News/blob/master/images/word%20cloud.JPG" width="500" height="250"/>
 
 
 ### Table of Contents
